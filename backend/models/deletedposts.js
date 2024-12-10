@@ -1,0 +1,1 @@
+// when delete is call on the post post will be moved here.

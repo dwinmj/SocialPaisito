@@ -1,0 +1,17 @@
+
+.icon-col.no-grow{
+    .meterGraph{
+        background-image: conic-gradient(from 180deg, #ff855e 0 86%, #464d5d 0);
+    }
+    &.top-profile{
+        .meterGraph {
+            padding:2px;
+            background-image: conic-gradient(from 180deg, #f9fbfb 0 86%, #ff855e 0);
+            .spacing{
+                padding:0;
+                background: #f9fbfb;
+            }
+        }
+
+    }
+}
